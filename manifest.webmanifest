@@ -7,10 +7,9 @@
   "theme_color": "#d4af37",
   "icons": [
     {
-      "src": "/assets/images/logo.png",
+      "src": "/Aset/gambar/logo.png",
       "sizes": "192x192",
       "type": "image/png"
     }
   ]
 }
-
